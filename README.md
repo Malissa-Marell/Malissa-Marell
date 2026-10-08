@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Malissa-Marell
-- 👀 I’m interested in AI, IOT and Machine Learning
-- 🌱 I’m currently learning in Electrical Electronic and Computer Science field
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👒This is Malissa Marell or known as Saa
+- Pronouns as Saa or Mal
+- 🛠️Love to explore tech stuff especially in IOT and Machine Learning but would open to anything
+- 🌟 An Electrical & Electronic Engineering Student
 
-<!---
-Malissa-Marell/Malissa-Marell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
